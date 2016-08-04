@@ -15,11 +15,5 @@ Apart from that, feel free to browse and also send me pull requests if you encou
 
 
 
-Feeds
 
-https://validator.w3.org/feed/check.cgi?url=http%3A//bbergter.github.io/atom.xml
-
-http://validator.w3.org/feed/check.cgi?url=http%3A//bbergter.github.io/rss.xml
-
-http://validator.w3.org/feed/check.cgi?url=http%3A//people.f4.htw-berlin.de/%7Ebergter/rss.xml
 
