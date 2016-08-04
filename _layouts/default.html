@@ -1,11 +1,33 @@
-			{% include footer.html %} 
-14 		 
-15 		</div> <!-- /container --> 
-16 	 
-17 	 
-18 		{% include scripts.html %} 
-19 	 
-20 	</body> 
-21 
- 
-22 </html> 
+<!DOCTYPE html>
+	<html>
+		<head>
+			<title>{{ page.title }}</title>
+			<!-- link to main stylesheet -->
+			<link rel="stylesheet" type="text/css" media="screen" href="stylesheets/stylesheet.css">
+		</head>
+		<body>
+			<nav>
+	    		<ul>
+	        		<li><a href="/">Home</a></li>
+		        	<li><a href="/about">About</a></li>
+	        		<li><a href="/cv">CV</a></li>
+	        		<li><a href="/blog">Blog</a></li>
+	    		</ul>
+			</nav>
+			<div class="container">
+			
+			{{ content }}
+			
+			</div><!-- /.container -->
+			<footer>
+	    		<ul>
+	        		<li><a href="mailto:beate.bergter@htw-berlin.de">beate.bergter@htw-berlin.de</a></li> 
+                   		<li><a href="https://github.com/bbergter">github.com/bbergter</a></li> 
+			</ul>
+		</footer>
+	</body>
+	</html>
+	
+
+
+
