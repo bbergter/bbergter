@@ -3,7 +3,8 @@ layout: default
 title: news
 news: active
 ---
-<h1>News and Announcements</h1>
+<div class="news">
+	<h1>News and Announcements</h1>
 
 
 
@@ -12,7 +13,7 @@ news: active
 	    <li><span>{{ post.date | date_to_string }} </span>  <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
 	  {% endfor %}
 	</ul>
-
+</div>
  
 <!--&raquo; {% include posts-with-excerpts.html %}	<div class="news"> 	{% include post-list.html %} </div> <!-- .news --> -->
 
