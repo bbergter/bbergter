@@ -1,0 +1,10 @@
+destination: _site_htw
+encoding: UTF-8
+serverencoding: ISO-8859-1
+baseurl: /people/bergter/
+production_url : http://people.f4.htw-berlin.de/~bergter
+
+# jekyll build --config _config.yml, _htwconfig.yml
+# encoding
+# see http://jekyllrb.com/docs/configuration/
+# ruby -e 'puts Encoding::list.join("\n")'
