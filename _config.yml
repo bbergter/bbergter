@@ -1,3 +1,22 @@
-name: Beate Bergter
-permalink: /news/:year/:month/:day/:title
+name: Prof Dr. Beate Bergter
+encoding: UTF-8
+serverencoding: UTF-8
+permalink: /news/:year/:month/:day/:title #permalink: /news/:title/
 markdown: kramdown
+highlighter: rouge
+breadcrumb_list: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+baseurl: /
+exclude: ['_bin','aliasses.sh','vendor','README.md','./_site_htw','_site_htw','/_site_htw/','./_site_htw/','_site_htw/','/_site_htw/']
+excerpt_separator: ""
+production_url : http://bbergter.github.io
+title: B Bergter
+author:
+  name: B Bergter
+  email: beate.bergter@htw-berlin.de
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      author: bergter
+      layout: "default"
