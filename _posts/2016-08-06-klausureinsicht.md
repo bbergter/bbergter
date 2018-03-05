@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Prof. Dr. Beate Bergter, Klausureinsicht"
-date: 2016-08-05
+date: 2018-03-05
 ---
 
 
-Klausureinsicht am 08.08.2016
+Klausur am 28.03.2018
 <ul>
-<li>13 Uhr: Statistik 2 und WT 2</li>
-<li>13:30 Uhr: Statistik 3</li>
+<li>14 Uhr: Statistik 3 und WT 2</li>
+<li>16 Uhr: Non-Life</li>
 </ul>
