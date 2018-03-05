@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Prof. Dr. Beate Bergter, Klausureinsicht"
+title: "Prof. Dr. Beate Bergter, Klausuren"
 date: 2018-03-05
 ---
 
